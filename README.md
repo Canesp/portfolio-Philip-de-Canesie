@@ -8,11 +8,11 @@ Hi, my name is Philip de Canésie, am a young man just starting his journey in t
 
 | Projects                                | 
 |-----------------------------------------| 
-|                                         | 
-|                                         |
+|   &nbsp;                                | 
+|   &nbsp;                                |
 |   Currently no projects to show :cry:   | 
-|                                         |
-|                                         |
-|                                         |
+|   &nbsp;                                |
+|   &nbsp;                                |
+|   &nbsp;                                |
 
 ---
